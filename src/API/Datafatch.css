@@ -1,0 +1,18 @@
+body{
+    background: rgb(165, 165, 241);
+}
+
+.img{
+    width: 500px;
+    height: 500px;
+    box-shadow: 0 0 5px rgb(218, 247, 92),
+                0 0 25px rgb(218, 247, 92),
+                0 0 50px rgb(218, 247, 92),
+                0 0 100px rgb(218, 247, 92)
+
+}
+.sel{
+    margin-bottom: 15px;
+    padding: 5px;
+    font-size: 20px;
+}
